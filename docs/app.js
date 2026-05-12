@@ -63,6 +63,15 @@ function initMap() {
 }
 
 function initEventListeners() {
+    // Disclaimer banner dismiss
+    document.getElementById('disclaimerClose').addEventListener('click', () => {
+        document.getElementById('disclaimerBanner').classList.add('hidden');
+        localStorage.setItem('disclaimerDismissed', 'true');
+    });
+    if (localStorage.getItem('disclaimerDismissed') === 'true') {
+        document.getElementById('disclaimerBanner').classList.add('hidden');
+    }
+
     // Sidebar toggle
     document.getElementById('sidebarToggle').addEventListener('click', () => {
         document.getElementById('sidebar').classList.toggle('collapsed');
