@@ -18,12 +18,12 @@ An interactive dashboard for exploring India's postal pincode boundaries, built 
 
 - **Shapefile**: [justinelliotmeyers/INDIA_PINCODES](https://github.com/justinelliotmeyers/INDIA_PINCODES)
 - **Total Records**: 19,928 pincode areas
-- **Coverage**: All 36 States/UTs, 1,102 districts
+- **Coverage**: All 36 States/UTs, 1,102 districts - based on old data, since the new ones are not public sourced yet.!
 - **Geometry**: Polygon boundaries (simplified for web performance)
 
 ## 🚀 Live Demo
 
-Visit the live dashboard at: [GitHub Pages URL]
+Visit the live dashboard at: [https://kaduvan.github.io/india-pincode-explorer/]
 
 ## 🛠️ Tech Stack
 
