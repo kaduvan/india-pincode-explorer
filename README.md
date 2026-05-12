@@ -2,12 +2,12 @@
 
 An interactive dashboard for exploring India's postal pincode boundaries, built with Leaflet.js.
 
-![Dashboard Preview](https://img.shields.io/badge/Pincodes-19%2C928-blue) ![States](https://img.shields.io/badge/States%2FUTs-36-green) ![Districts](https://img.shields.io/badge/Districts-1%2C102-orange)
+![Dashboard Preview](https://img.shields.io/badge/Pincodes-19%2C312-blue) ![States](https://img.shields.io/badge/States%2FUTs-36-green)
 
 ## 🗺️ Features
 
-- **Interactive Map** — Explore 19,928 pincode boundaries across India
-- **State & District Filters** — Drill down from country to state to district level
+- **Interactive Map** — Explore 19,312 pincode boundaries across India
+- **State & Division Filters** — Drill down from country to state to division level
 - **Pincode Search** — Type a pincode to instantly locate it on the map
 - **Office Type Filter** — Filter by Head Office (H.O), Sub Office (S.O), or Branch Office (B.O)
 - **Color Themes** — Color-code areas by state or office type
@@ -17,8 +17,9 @@ An interactive dashboard for exploring India's postal pincode boundaries, built 
 ## 📊 Data Source
 
 - **Shapefile**: [justinelliotmeyers/INDIA_PINCODES](https://github.com/justinelliotmeyers/INDIA_PINCODES)
-- **Total Records**: 19,928 pincode areas
-- **Coverage**: All 36 States/UTs, 1,102 districts - based on old data, since the new ones are not public sourced yet.!
+- **Total Records**: 19,312 pincode areas
+- **Coverage**: All 36 States/UTs
+- **Data Year**: 2022 — user discretion advised for up to date data
 - **Geometry**: Polygon boundaries (simplified for web performance)
 
 ## 🚀 Live Demo
@@ -42,11 +43,11 @@ docs/
 └── data/
     ├── metadata.json       # State metadata & stats
     ├── search_index.csv    # Searchable pincode index
-    ├── states/             # GeoJSON per state
-    │   ├── andhra_pradesh.geojson
-    │   ├── maharashtra.geojson
-    │   └── ...
-    └── india_pincodes.geojson  # Full dataset (optional)
+    ├── pincodes.geojson        # Combined GeoJSON (all pincodes)
+    └── states/                 # GeoJSON per state
+        ├── andhra_pradesh.geojson
+        ├── maharashtra.geojson
+        └── ...
 ```
 
 ## 🔧 Local Development
