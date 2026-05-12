@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Raw data (source shapefiles, not needed for deployment)
+raw_data/
+shapefile/
+*.z01
+*.z02
+*.z03
+*.z04
+*.z05
+*.shp.zip
+*.dbf.zip
+*.shx.zip
+*.prj.zip
+*.cpg.zip
+*.sbn.zip
+*.sbx.zip
+*_combined.zip
+
+# Processing scripts (not needed for deployment)
+extract.py
+extract2.py
+check_headers.py
+download.py
+explore.py
+explore2.py
+process_data.py
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Extra data files not part of dashboard
+*.xlsx
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,238 @@
+{
+  "total_pincodes": 19928,
+  "total_states": 36,
+  "total_districts": 1102,
+  "states": {
+    "Andaman & Nicobar Islands": {
+      "count": 22,
+      "file": "data/states/andaman_and_nicobar_islands.geojson",
+      "size_kb": 94.2,
+      "safe_name": "andaman_and_nicobar_islands"
+    },
+    "Andhra Pradesh": {
+      "count": 1207,
+      "file": "data/states/andhra_pradesh.geojson",
+      "size_kb": 1257.6,
+      "safe_name": "andhra_pradesh"
+    },
+    "Arunachal Pradesh": {
+      "count": 48,
+      "file": "data/states/arunachal_pradesh.geojson",
+      "size_kb": 129.2,
+      "safe_name": "arunachal_pradesh"
+    },
+    "Assam": {
+      "count": 608,
+      "file": "data/states/assam.geojson",
+      "size_kb": 702.6,
+      "safe_name": "assam"
+    },
+    "Bihar": {
+      "count": 933,
+      "file": "data/states/bihar.geojson",
+      "size_kb": 1128.2,
+      "safe_name": "bihar"
+    },
+    "Chandigarh": {
+      "count": 24,
+      "file": "data/states/chandigarh.geojson",
+      "size_kb": 12.4,
+      "safe_name": "chandigarh"
+    },
+    "Chhattisgarh": {
+      "count": 297,
+      "file": "data/states/chhattisgarh.geojson",
+      "size_kb": 508.9,
+      "safe_name": "chhattisgarh"
+    },
+    "Dadra & Nagar Haveli, Gujarat": {
+      "count": 4,
+      "file": "data/states/dadra_and_nagar_haveli_gujarat.geojson",
+      "size_kb": 6.1,
+      "safe_name": "dadra_and_nagar_haveli_gujarat"
+    },
+    "Daman & Diu": {
+      "count": 6,
+      "file": "data/states/daman_and_diu.geojson",
+      "size_kb": 3.6,
+      "safe_name": "daman_and_diu"
+    },
+    "Goa": {
+      "count": 88,
+      "file": "data/states/goa.geojson",
+      "size_kb": 64.9,
+      "safe_name": "goa"
+    },
+    "Gujarat": {
+      "count": 1025,
+      "file": "data/states/gujarat.geojson",
+      "size_kb": 1290.8,
+      "safe_name": "gujarat"
+    },
+    "Haryana": {
+      "count": 312,
+      "file": "data/states/haryana.geojson",
+      "size_kb": 350.6,
+      "safe_name": "haryana"
+    },
+    "Himachal Pradesh": {
+      "count": 435,
+      "file": "data/states/himachal_pradesh.geojson",
+      "size_kb": 404.1,
+      "safe_name": "himachal_pradesh"
+    },
+    "Jammu & Kashmir": {
+      "count": 212,
+      "file": "data/states/jammu_and_kashmir.geojson",
+      "size_kb": 277.4,
+      "safe_name": "jammu_and_kashmir"
+    },
+    "Jharkhand": {
+      "count": 409,
+      "file": "data/states/jharkhand.geojson",
+      "size_kb": 545.4,
+      "safe_name": "jharkhand"
+    },
+    "Karnataka": {
+      "count": 1356,
+      "file": "data/states/karnataka.geojson",
+      "size_kb": 1624.3,
+      "safe_name": "karnataka"
+    },
+    "Kerala": {
+      "count": 1417,
+      "file": "data/states/kerala.geojson",
+      "size_kb": 891.7,
+      "safe_name": "kerala"
+    },
+    "Lakshadweep": {
+      "count": 9,
+      "file": "data/states/lakshadweep.geojson",
+      "size_kb": 6.9,
+      "safe_name": "lakshadweep"
+    },
+    "Madhya Pradesh": {
+      "count": 893,
+      "file": "data/states/madhya_pradesh.geojson",
+      "size_kb": 1538.4,
+      "safe_name": "madhya_pradesh"
+    },
+    "Maharashtra": {
+      "count": 1727,
+      "file": "data/states/maharashtra.geojson",
+      "size_kb": 2177.8,
+      "safe_name": "maharashtra"
+    },
+    "Manipur": {
+      "count": 53,
+      "file": "data/states/manipur.geojson",
+      "size_kb": 77.0,
+      "safe_name": "manipur"
+    },
+    "Meghalaya": {
+      "count": 64,
+      "file": "data/states/meghalaya.geojson",
+      "size_kb": 86.1,
+      "safe_name": "meghalaya"
+    },
+    "Mizoram": {
+      "count": 44,
+      "file": "data/states/mizoram.geojson",
+      "size_kb": 63.7,
+      "safe_name": "mizoram"
+    },
+    "Nagaland": {
+      "count": 48,
+      "file": "data/states/nagaland.geojson",
+      "size_kb": 70.2,
+      "safe_name": "nagaland"
+    },
+    "Nct Of Delhi": {
+      "count": 98,
+      "file": "data/states/nct_of_delhi.geojson",
+      "size_kb": 57.6,
+      "safe_name": "nct_of_delhi"
+    },
+    "Odisha": {
+      "count": 1017,
+      "file": "data/states/odisha.geojson",
+      "size_kb": 1261.1,
+      "safe_name": "odisha"
+    },
+    "Puducherry": {
+      "count": 28,
+      "file": "data/states/puducherry.geojson",
+      "size_kb": 19.1,
+      "safe_name": "puducherry"
+    },
+    "Punjab": {
+      "count": 534,
+      "file": "data/states/punjab.geojson",
+      "size_kb": 581.0,
+      "safe_name": "punjab"
+    },
+    "Rajasthan": {
+      "count": 1041,
+      "file": "data/states/rajasthan.geojson",
+      "size_kb": 1514.1,
+      "safe_name": "rajasthan"
+    },
+    "Sikkim": {
+      "count": 23,
+      "file": "data/states/sikkim.geojson",
+      "size_kb": 30.6,
+      "safe_name": "sikkim"
+    },
+    "Tamil Nadu": {
+      "count": 2038,
+      "file": "data/states/tamil_nadu.geojson",
+      "size_kb": 1832.5,
+      "safe_name": "tamil_nadu"
+    },
+    "Telangana": {
+      "count": 675,
+      "file": "data/states/telangana.geojson",
+      "size_kb": 735.4,
+      "safe_name": "telangana"
+    },
+    "Tripura": {
+      "count": 80,
+      "file": "data/states/tripura.geojson",
+      "size_kb": 88.7,
+      "safe_name": "tripura"
+    },
+    "Uttar Pradesh": {
+      "count": 1638,
+      "file": "data/states/uttar_pradesh.geojson",
+      "size_kb": 2128.7,
+      "safe_name": "uttar_pradesh"
+    },
+    "Uttarakhand": {
+      "count": 298,
+      "file": "data/states/uttarakhand.geojson",
+      "size_kb": 341.2,
+      "safe_name": "uttarakhand"
+    },
+    "West Bengal": {
+      "count": 1217,
+      "file": "data/states/west_bengal.geojson",
+      "size_kb": 1282.0,
+      "safe_name": "west_bengal"
+    }
+  },
+  "office_types": {
+    "S.O": 18771,
+    "H.O": 814,
+    "B.O": 343
+  },
+  "center": [
+    20.5937,
+    78.9629
+  ],
+  "bounds": {
+    "south": 6.747382164001522,
+    "west": 68.17291999995808,
+    "north": 35.501955931221346,
+    "east": 97.40329742423688
+  }
+}
