@@ -26,6 +26,11 @@ download.py
 explore.py
 explore2.py
 process_data.py
+inspect_xlsx.py
+parse_electoral.py
+parse_form20.py
+verify_output.py
+shapefile_new/
 
 # Python cache
 __pycache__/

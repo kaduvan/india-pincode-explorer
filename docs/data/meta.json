@@ -1,0 +1,187 @@
+{
+  "total_pincodes": 19312,
+  "unique_pincodes": 19312,
+  "total_states": 36,
+  "states": [
+    {
+      "state": "Andaman and Nicobar Islands",
+      "filename": "andaman_and_nicobar_islands.geojson",
+      "pincode_count": 22
+    },
+    {
+      "state": "Andhra Pradesh",
+      "filename": "andhra_pradesh.geojson",
+      "pincode_count": 1239
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "filename": "arunachal_pradesh.geojson",
+      "pincode_count": 49
+    },
+    {
+      "state": "Assam",
+      "filename": "assam.geojson",
+      "pincode_count": 575
+    },
+    {
+      "state": "Bihar",
+      "filename": "bihar.geojson",
+      "pincode_count": 876
+    },
+    {
+      "state": "Chandigarh",
+      "filename": "chandigarh.geojson",
+      "pincode_count": 21
+    },
+    {
+      "state": "Chhattisgarh",
+      "filename": "chhattisgarh.geojson",
+      "pincode_count": 277
+    },
+    {
+      "state": "Delhi",
+      "filename": "delhi.geojson",
+      "pincode_count": 95
+    },
+    {
+      "state": "Goa",
+      "filename": "goa.geojson",
+      "pincode_count": 88
+    },
+    {
+      "state": "Gujarat",
+      "filename": "gujarat.geojson",
+      "pincode_count": 994
+    },
+    {
+      "state": "Haryana",
+      "filename": "haryana.geojson",
+      "pincode_count": 316
+    },
+    {
+      "state": "Himachal Pradesh",
+      "filename": "himachal_pradesh.geojson",
+      "pincode_count": 438
+    },
+    {
+      "state": "Jammu And Kashmir",
+      "filename": "jammu_and_kashmir.geojson",
+      "pincode_count": 197
+    },
+    {
+      "state": "Jharkhand",
+      "filename": "jharkhand.geojson",
+      "pincode_count": 379
+    },
+    {
+      "state": "Karnataka",
+      "filename": "karnataka.geojson",
+      "pincode_count": 1354
+    },
+    {
+      "state": "Kerala",
+      "filename": "kerala.geojson",
+      "pincode_count": 1418
+    },
+    {
+      "state": "Ladakh",
+      "filename": "ladakh.geojson",
+      "pincode_count": 13
+    },
+    {
+      "state": "Lakshadweep",
+      "filename": "lakshadweep.geojson",
+      "pincode_count": 9
+    },
+    {
+      "state": "Madhya Pradesh",
+      "filename": "madhya_pradesh.geojson",
+      "pincode_count": 772
+    },
+    {
+      "state": "Maharashtra",
+      "filename": "maharashtra.geojson",
+      "pincode_count": 1590
+    },
+    {
+      "state": "Manipur",
+      "filename": "manipur.geojson",
+      "pincode_count": 53
+    },
+    {
+      "state": "Meghalaya",
+      "filename": "meghalaya.geojson",
+      "pincode_count": 68
+    },
+    {
+      "state": "Mizoram",
+      "filename": "mizoram.geojson",
+      "pincode_count": 40
+    },
+    {
+      "state": "Nagaland",
+      "filename": "nagaland.geojson",
+      "pincode_count": 45
+    },
+    {
+      "state": "Odisha",
+      "filename": "odisha.geojson",
+      "pincode_count": 937
+    },
+    {
+      "state": "Puducherry",
+      "filename": "puducherry.geojson",
+      "pincode_count": 28
+    },
+    {
+      "state": "Punjab",
+      "filename": "punjab.geojson",
+      "pincode_count": 508
+    },
+    {
+      "state": "Rajasthan",
+      "filename": "rajasthan.geojson",
+      "pincode_count": 1007
+    },
+    {
+      "state": "Sikkim",
+      "filename": "sikkim.geojson",
+      "pincode_count": 19
+    },
+    {
+      "state": "Tamil Nadu",
+      "filename": "tamil_nadu.geojson",
+      "pincode_count": 2036
+    },
+    {
+      "state": "Telangana",
+      "filename": "telangana.geojson",
+      "pincode_count": 676
+    },
+    {
+      "state": "The Dadra And Nagar Haveli And Daman And Diu",
+      "filename": "the_dadra_and_nagar_haveli_and_daman_and_diu.geojson",
+      "pincode_count": 9
+    },
+    {
+      "state": "Tripura",
+      "filename": "tripura.geojson",
+      "pincode_count": 80
+    },
+    {
+      "state": "Uttar Pradesh",
+      "filename": "uttar_pradesh.geojson",
+      "pincode_count": 1655
+    },
+    {
+      "state": "Uttarakhand",
+      "filename": "uttarakhand.geojson",
+      "pincode_count": 301
+    },
+    {
+      "state": "West Bengal",
+      "filename": "west_bengal.geojson",
+      "pincode_count": 1128
+    }
+  ]
+}
